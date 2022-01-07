@@ -1,0 +1,14 @@
+.apps {
+    background-color: white;
+    color: black;
+}
+.movies1 .cards1 .card1{
+    width: 84%;
+    height: 16em;
+}
+.margin {
+    margin-top: 3em;
+}
+.movies .cards {
+    padding: 0em 1em 5em 17em;
+}
